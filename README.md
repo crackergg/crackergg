@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=crackergg&label=Profile%20views&color=0e75b6&style=flat" alt="cracker" />
 </p>
 
-- All of my projects are available at my [About Me.](https://github.com/crackergg/)
+- All of my projects are available at my [github](https://github.com/crackergg/)
 
 - Discord - **@cracker144**
 
