@@ -7,6 +7,8 @@
 
 - Discord - **@cracker144**
 
+- [guns.lol](https://guns.lol/crackerx/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
