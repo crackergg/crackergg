@@ -5,9 +5,11 @@
 
 - All of my projects are available at my [github](https://github.com/crackergg/)
 
-- Discord - **@cracker144**
+- Discord - [click](https://discord.gg/XWvrvxqCAk)
 
 - [guns.lol](https://guns.lol/crackerx/)
+
+- Love Gravity, Frogies Arcade and Truffled ❤
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
